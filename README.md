@@ -60,7 +60,7 @@
 * < meta charset="utf-8" >
 * 언어를 다국어로 설정하고 head에 입력한다.
 * <meta name="description"content=""> 검색어 제목 밑에 요약, 설명을 덧붙일때 사용한다.
-* <meta name="keyword"content=""> 키워드로 사용자가 검색했을 때 관련되어 내 사이트가 나오게 설정하는 것이다.
+* <meta name="keywords"content=""> 키워드로 사용자가 검색했을 때 관련되어 내 사이트가 나오게 설정하는 것이다.
 ----
 # day2 HTML
 * HTML 작성 시 항상 구조태그 먼저 작성하기
