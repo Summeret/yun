@@ -7,9 +7,9 @@
 ### HTML 구조태그
 * HTML5 버전 선언하는 <!doctype html>
 * HTML 웹브라우저 구조 처리하는 태그들
-1. <html></html>
-2. <head></head>
-3. <body></body>
+1. < html >< /html >
+2. < head >< /head >
+3. < body >< /body >
 ----
 # git&gitHub
 * 버전관리 프로그램 git
